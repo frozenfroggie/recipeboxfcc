@@ -4,7 +4,7 @@ export default React.createClass({
   render: function () {
     return (
       <div>
-        Welcome to React! test
+        Welcome to React! test test
       </div>
     );
   }
